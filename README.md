@@ -13,20 +13,17 @@
 - Converts voice notes into actionable summaries using Speech-to-Text and LLMs  
 - **Tech:** Whisper, GPT, React, Python
 - 🔗 [View Repo](https://github.com/harisree-m/VoxSummarize-AI)
-- 🔗 [View Project](https://695a77a0aaec2a36d050c88e--cheery-lokum-021ad9.netlify.app/)
 
 ### 🥗 FreshCheck AI
 - Image-based food freshness classifier (Fresh / Okay / Avoid)  
 - **Tech:** Hugging Face Vision Models, Python
 - 🔗 [View Repo](https://github.com/harisree-m/FreshCheck-AI)  
-- 🔗 [View Project](https://resilient-tapioca-9bac78.netlify.app/)
   
 
 ### 📍 VibeMapper Smart Local Recommender
 - Mood-based nearby place recommendations using Maps & Places APIs  
 - **Tech:** React, Google Maps API, JavaScript
 - 🔗 [View Repo](https://github.com/harisree-m/VibeMapper-Smart-Local-Recommender)
-- 🔗 [View Project](https://695a77252162923b370c935d--keen-crepe-641469.netlify.app/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harisree-m&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
